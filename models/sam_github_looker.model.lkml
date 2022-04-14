@@ -1,5 +1,5 @@
 # Define the database connection to be used for this model.
-connection: "sam_test_bq_conn"
+connection: "@{CONNECTION_NAME}"
 
 # include all the views
 include: "/views/**/*.view"
