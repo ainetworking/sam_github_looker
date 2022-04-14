@@ -16,7 +16,7 @@
     },
     "models": [
         {
-            "name": “sam”_github_looker”,
+            "name": “sam_github_looker”,
             "connection_constant": "CONNECTION_NAME"
         }
     ]
