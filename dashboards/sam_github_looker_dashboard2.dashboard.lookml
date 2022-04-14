@@ -1,5 +1,5 @@
-- dashboard: sam_taap_test_dashboard
-  title: Sam TAAP test dashboard
+- dashboard: sam_github_looker_dashboard2
+  title: Sam github looker dashboard2
   layout: newspaper
   preferred_viewer: dashboards-next
   description: ''
