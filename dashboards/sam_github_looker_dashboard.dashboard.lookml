@@ -1,5 +1,5 @@
-- dashboard: sam_github_looker_dashboard
-  title: Sam github looker dashboard
+- dashboard: sam_blocks_looker_dashboard
+  title: Sam blocks looker dashboard
   layout: newspaper
   preferred_viewer: dashboards-next
   description: ''
